@@ -1,0 +1,36 @@
+p{
+    color: black;
+    font-size: 15pt;
+}
+
+   .musk-paragraph{
+       color: darkgreen;
+       font-size: 18pt;
+
+   }
+
+.musk-idkk{
+    color: coral;
+    font-size: 18pt;
+}
+.tesla-pragraph{
+    color: red;
+    font-size: 18pt;
+}
+
+.musk-paragraph-border{
+    border: 1px solid red;
+}
+
+.elon-paragraph-border{
+    border: 5px solid black;
+}
+
+table, th, td {
+    border: 1px solid;
+}
+
+nav {
+    background-color: #8c8382;
+    padding: 1%;
+}
